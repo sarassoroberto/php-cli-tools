@@ -33,7 +33,7 @@
         [vc_component_name]_front.js
 
     templates
-        [vc_component_name.]twig
+        [vc_component_name].twig
 
 ```
 
